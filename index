@@ -4,7 +4,7 @@
 <script type="text/javascript">
 
 window.onload = function(){  
-         window.location = 'http://183.82.96.212:8081/';
+         window.location = 'http://183.82.96.212:8082/';
  }
 </script>
 </head>
